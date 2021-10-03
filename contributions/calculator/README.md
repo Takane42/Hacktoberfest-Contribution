@@ -5,4 +5,4 @@
 
 ![command](https://github.com/japneetbhatia/Hacktoberfest-Contribution/blob/master/contributions/calculator/images/img.JPG)
 
-This calculator performs basic Mathematics function.
+This calculator performs basic mathematics functions like addition,subtraction,multiplication & division.
